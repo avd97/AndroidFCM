@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "439132370821",
+    "project_id": "fcm-notifyme",
+    "storage_bucket": "fcm-notifyme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439132370821:android:df05c77b969ccef988f6ec",
+        "android_client_info": {
+          "package_name": "com.devabhi.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439132370821-sh983gooilj8vc59ikdljlp962eahpmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNhMYGEOIcrtp55_T4W0hJGSFg9W8aqcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439132370821-sh983gooilj8vc59ikdljlp962eahpmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439132370821:android:66d641f6e3d39b4688f6ec",
+        "android_client_info": {
+          "package_name": "dev.abhi.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439132370821-sh983gooilj8vc59ikdljlp962eahpmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNhMYGEOIcrtp55_T4W0hJGSFg9W8aqcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439132370821-sh983gooilj8vc59ikdljlp962eahpmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
